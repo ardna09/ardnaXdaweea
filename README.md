@@ -218,7 +218,11 @@ See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 # Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
 
 # daweeabot
+# Ardana Indra K
+# ardnadotcom
+# ardna_beroo
 
-for website daweea batik "www.batikdaweea.my.id"
+This is my thesis project entitled "Chatbot Implementation as a Customer Service Automation Solution for Daweea Batik MSMEs"
+For website daweea batik "www.batikdaweea.my.id"
 
 > > > > > > > 2f76ddc0a3e01daf4b3dcd46deb1d969f3c718f6
