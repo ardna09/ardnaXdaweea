@@ -222,7 +222,7 @@ See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 # ardnadotcom
 # ardna_beroo
 
-This is my thesis project entitled "Chatbot Implementation as a Customer Service Automation Solution for Daweea Batik MSMEs"
+This is my undergraduate thesis project entitled "Chatbot Implementation as a Customer Service Automation Solution for Daweea Batik MSMEs"
 For website daweea batik "www.batikdaweea.my.id"
 
 > > > > > > > 2f76ddc0a3e01daf4b3dcd46deb1d969f3c718f6
